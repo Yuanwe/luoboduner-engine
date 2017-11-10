@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>luoboduner-api-home</name>
-    <description>Demo project for Spring Boot</description>
+    <description>api for luoboduner-home</description>
 
     <parent>
         <groupId>com.luoboduner.dependency</groupId>

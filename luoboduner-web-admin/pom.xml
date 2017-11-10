@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>luoboduner-web-admin</name>
-    <description>Demo project for Spring Boot</description>
+    <description>luoboduner后台管理系统</description>
 
     <parent>
         <groupId>com.luoboduner.dependency</groupId>

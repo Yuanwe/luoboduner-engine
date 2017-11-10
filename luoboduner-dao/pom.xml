@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>luoboduner-dao</name>
-    <description>Demo project for Spring Boot</description>
+    <description>luoboduner持久层</description>
 
     <parent>
         <groupId>com.luoboduner.dependency</groupId>
@@ -35,12 +35,6 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <scope>test</scope>
         </dependency>
 
         <!--pagehelper-->

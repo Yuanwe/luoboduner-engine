@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>luoboduner-dependency</name>
-    <description>Demo project for Spring Boot</description>
+    <description>luoboduner依赖管理</description>
 
     <properties>
         <spring-boot.version>1.5.7.RELEASE</spring-boot.version>
