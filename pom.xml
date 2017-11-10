@@ -10,10 +10,15 @@
     <packaging>pom</packaging>
 
     <modules>
+        <!--luoboduner公共工具集-->
         <module>luoboduner-common</module>
+        <!--luoboduner依赖管理-->
         <module>luoboduner-dependency</module>
+        <!--luoboduner持久层-->
         <module>luoboduner-dao</module>
+        <!--api for luoboduner-home-->
         <module>luoboduner-api-home</module>
+        <!--luoboduner后台管理系统-->
         <module>luoboduner-web-admin</module>
     </modules>
 
