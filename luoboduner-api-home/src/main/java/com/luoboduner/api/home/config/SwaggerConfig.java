@@ -32,7 +32,7 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("萝卜墩儿 APIs")
-                .description("精诚所至，金石为开")
+                .description("萝卜蹲，萝卜蹲，萝卜蹲完谁来蹲")
                 .termsOfServiceUrl("https://www.luoboduner.com/")
                 .contact(new Contact("萝卜墩儿", "http://www.luoboduner.com/", ""))
                 .version("1.0")
